@@ -1,6 +1,6 @@
-# Another Awesome Rails Gem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Rails Gems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Another curated list of Awesome Rails Gem.
+A curated list of Awesome Rails Gems.
 
 ## A/B testing
 
