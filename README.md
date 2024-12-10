@@ -2,6 +2,46 @@
 
 A curated list of Awesome Rails Gems.
 
+## Table of Contents
+
+   * [A/B testing](#ab-testing)
+   * [AI](#ai)
+   * [ActiveRecord](#activerecord)
+   * [ActiveRecord Validations](#activerecord-validations)
+   * [Administration](#administration)
+   * [Analytics](#analytics)
+   * [API](#api)
+   * [Authentication](#authentication)
+   * [Authorization](#authorization)
+   * [Background processing](#background-processing)
+   * [Business logic](#business-logic)
+   * [Charts](#charts)
+   * [Code quality](#code-quality)
+   * [Debugging](#debugging)
+   * [Development](#development)
+   * [E-commerce](#e-commerce)
+   * [Encryption](#encryption)
+   * [Feature flags](#feature-flags)
+   * [Forms](#forms)
+   * [GDPR](#gdpr)
+   * [Geocoding](#geocoding)
+   * [HTTP client](#http-client)
+   * [I18n](#i18n)
+   * [Images](#images)
+   * [Logging](#logging)
+   * [Multi-tenancy](#multi-tenancy)
+   * [Notifications](#notifications)
+   * [Pagination](#pagination)
+   * [Payments](#payments)
+   * [PDF generation](#pdf-generation)
+   * [Performances](#performances)
+   * [QR Codes](#qr-codes)
+   * [Search](#search)
+   * [SEO](#seo)
+   * [Security](#security)
+   * [Testing](#testing)
+   * [Views and related](#views-and-related)
+
 ## A/B testing
 
 - [ankane / field_test](https://github.com/ankane/field_test) A/B testing for Rails
