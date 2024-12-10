@@ -6,6 +6,11 @@ A curated list of Awesome Rails Gems.
 
 - [ankane / field_test](https://github.com/ankane/field_test) A/B testing for Rails
 
+## AI
+
+- [alexrudall / ruby-openai](https://github.com/alexrudall/ruby-openai) Use the OpenAI API with Ruby!
+- [gbaptista / ollama-ai](https://github.com/gbaptista/ollama-ai) A Ruby gem for interacting with Ollama's API that allows you to run open source AI LLMs (Large Language Models) locally.
+
 ## ActiveRecord
 
 - [aasm / aasm](https://github.com/aasm/aasm) AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)
